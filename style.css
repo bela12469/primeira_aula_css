@@ -1,0 +1,32 @@
+div {
+    color: red;
+    border:2px  solid red;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.caixa{
+    font-style: italic;
+}
+
+#ultima-caixa{
+    background-color:grey;
+}
+footer{
+    border: 4 solid cor purple;
+    background-color: blueviolet;
+    padding: 20px;
+    height: 2cm;
+    
+}
+
+.titulo-page{
+    background-color: blueviolet;
+    padding: 20px ;
+    
+}
+.corpo-page{
+    border:2px  solid red;
+}
